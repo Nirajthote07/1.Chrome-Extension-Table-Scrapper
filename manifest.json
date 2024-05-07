@@ -1,0 +1,17 @@
+{
+    "name": "Data Scraper",
+    "description": "Scrape data from any web page ",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "excelD.png"
+    },
+    "icons": {
+        "16": "excelD.png",
+        "32": "excelD.png",
+        "48": "excelD.png",
+        "128": "excelD.png"
+      },
+    "permissions":["activeTab","scripting"]
+}
